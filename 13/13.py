@@ -1,6 +1,3 @@
-from math import gcd
-
-
 def parse_input() -> list[tuple[tuple[int, int], tuple[int, int], tuple[int, int]]]:
     machine_configs = []
 
